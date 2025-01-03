@@ -1,4 +1,3 @@
-# Basic Jupyter Python
+# Data Structures and Algorithms
 
-This repository provides a basic python environment using Jupyterlab.
-This python environment includes linter and type checker libraries.
+Basic data structures and algorithms by python
